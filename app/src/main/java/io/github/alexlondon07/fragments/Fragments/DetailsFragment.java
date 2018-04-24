@@ -12,10 +12,10 @@ import io.github.alexlondon07.fragments.R;
 /**
  * A simple {@link Fragment} subclass.
  */
-public class DataFragment extends Fragment {
+public class DetailsFragment extends Fragment {
 
 
-    public DataFragment() {
+    public DetailsFragment() {
         // Required empty public constructor
     }
 
@@ -24,8 +24,7 @@ public class DataFragment extends Fragment {
     public View onCreateView(LayoutInflater inflater, ViewGroup container,
                              Bundle savedInstanceState) {
 
-        View view = inflater.inflate(R.layout.fragment_data, container, false);
-
+        View view = inflater.inflate(R.layout.fragment_details, container, false);
 
 
         // Inflate the layout for this fragment

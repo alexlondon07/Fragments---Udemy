@@ -2,5 +2,6 @@
     <string name="app_name">Fragments</string>
 
     <!-- TODO: Remove or change this placeholder text -->
-    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="hello_blank_fragment_data">Hello blank fragment Data</string>
+    <string name="hello_blank_fragment">Hello blank fragment Details</string>
 </resources>
